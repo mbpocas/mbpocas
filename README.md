@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estuando Desenvolvimento Web Full Stack
+- 🌱 Estudando Desenvolvimento Web Full Stack
 
 <div align="center">
   <a href="https://github.com/mbpocas">
