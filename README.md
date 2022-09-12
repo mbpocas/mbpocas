@@ -1,8 +1,6 @@
 # Olá ! Sou Maurício Poças 
 
-
-- 🔭 Atualmente não estou trabalhando
-- 🌱 Estudando Desenvolvimento Web Full Stack
+Jr. Full-Stack Web Developer | Ruby on Rails
 
 <div align="center">
   <a href="https://github.com/mbpocas">
