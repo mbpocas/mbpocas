@@ -13,7 +13,8 @@ Jr. Full-Stack Web Developer | Ruby on Rails
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ruby" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
-
+  <img align="center" alt="rails" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
 </div>
 
   ##
