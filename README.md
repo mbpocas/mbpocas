@@ -1,6 +1,6 @@
 # Olá ! Sou Maurício Poças 
 
-Jr. Full-Stack Web Developer
+Desenvolvedor Web Full-Stack
 
 <div align="center">
   <a href="https://github.com/mbpocas">
